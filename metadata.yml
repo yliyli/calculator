@@ -1,0 +1,14 @@
+---
+:id: 104003066
+:submitters:
+- :name: John Andrew D'cruz
+  :email: jdcruz1@jhu.edu
+- :name: Yiyang Li
+  :email: yli302@jhu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-12-08 01:40:30.601508000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-12-07 17:40:30.601508000 Z
+:status: processed
+:score: 98.0
