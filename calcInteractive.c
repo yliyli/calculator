@@ -1,12 +1,5 @@
 /*
  * Interactive calculator program
- * CSF Assignment 5
- * John D'cruz, jdcruz1
- * Sky Li, yli302
- */
-
-/*
- * Interactive calculator program
  *
  * This should work correctly once you have implemented
  * and tested your calc_ functions
