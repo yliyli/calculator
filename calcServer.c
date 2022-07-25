@@ -1,10 +1,3 @@
-/*
- * Calculator server
- * CSF Assignment 6
- * John D'cruz, jdcruz1
- * Sky Li, yli302
- */
-
 #include <stdio.h>      /* for snprintf */
 #include <string.h>
 #include "csapp.h"
