@@ -1,7 +1,3 @@
-# HW6 Makefile
-# The *only* change you should make is choosing the appropriate
-# dependencies for calc.o according to whether you implemented
-# the calculator in C or C++.
 
 PROGRAMS = calcTest calcInteractive calcServer
 CC = gcc
