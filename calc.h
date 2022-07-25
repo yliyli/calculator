@@ -1,10 +1,3 @@
-/*
- * Header file for calculator
- * CSF Assignment 5
- * John D'cruz, jdcruz1
- * Sky Li, yli302
- */
-
 #ifndef CALC_H
 #define CALC_H
 
