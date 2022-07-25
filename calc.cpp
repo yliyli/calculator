@@ -1,10 +1,3 @@
-/*
- * Calculator structure
- * CSF Assignment 6
- * John D'cruz, jdcruz1
- * Sky Li, yli302
- */
-
 #include "calc.h"
 #include <stdio.h>
 #include <stdlib.h>
