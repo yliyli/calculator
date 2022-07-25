@@ -1,10 +1,3 @@
-/*
- * Tests calculator implementation
- * CSF Assignment 5
- * John D'cruz, jdcruz1
- * Sky Li, yli302
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "tctest.h"
